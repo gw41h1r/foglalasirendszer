@@ -1,0 +1,79 @@
+sktop\Reptér\main.py 
+Foglalás sikeres: Kovács Anna - B123
+Foglalás sikeres: Nagy Béla - I456
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 3
+Adja meg a nevét: Nagy Béla
+Adja meg a járatszámot: I456
+Foglalás lemondva: Nagy Béla - I456
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 4
+Név: Kovács Anna, Járat: B123
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 2
+Adja meg a nevét: Nagy Béla
+Adja meg a járatszámot: I456
+Foglalás sikeres: Nagy Béla - I456
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 4
+Név: Kovács Anna, Járat: B123
+Név: Nagy Béla, Járat: I456
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 1
+Belföldi járat: B123, célállomás: Budapest, jegyár: 10000 Ft
+Nemzetközi járat: I456, célállomás: New York, jegyár: 50000 Ft
+Belföldi járat: B789, célállomás: Debrecen, jegyár: 8000 Ft
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 2
+Adja meg a nevét: Puskovitz Attila
+Adja meg a járatszámot: B789
+Foglalás sikeres: Puskovitz Attila - B789
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 4
+Név: Kovács Anna, Járat: B123
+Név: Nagy Béla, Járat: I456
+Név: Puskovitz Attila, Járat: B789
+
+1. Járatok listája
+2. Jegy foglalása
+3. Foglalás lemondása
+4. Foglalások listázása
+5. Kilépés
+Válasszon egy opciót: 5
+
+Process finished with exit code 0
